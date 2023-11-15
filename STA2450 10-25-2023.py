@@ -68,6 +68,7 @@ dat2 = pd.read_csv("2017_Fuel_Economy_Data.csv")
 
 x = pd.DataFrame(boot_stat(dat2['Combined Mileage (mpg)'], 'mean'))
 
+<<<<<<< HEAD
 # Generate a class for bootstrapped samples' CI
 class BootCI():
     def __init__(self):
@@ -78,6 +79,9 @@ class BootCI():
         self.conf_level = 0.95 
         
         
+=======
+
+>>>>>>> bf48d768018d55eaf8a472a088dc52418d2c68f5
 
 
 
