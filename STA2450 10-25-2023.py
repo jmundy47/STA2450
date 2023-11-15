@@ -77,15 +77,7 @@ class BootCI():
         self.n_boot = 0
         self.boot_stat = None
         self.conf_level = 0.95 
-        
-        
-=======
-
->>>>>>> bf48d768018d55eaf8a472a088dc52418d2c68f5
-
-
-
-
+    
 
 
 
